@@ -1,0 +1,24 @@
+#root,
+html,
+body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background-color: #292929;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.btn{
+    text-decoration: none;
+    padding: 2px 0px 0px 0px;
+}
